@@ -6,7 +6,8 @@ Covid Observer&trade; apps run on Android and IOS devices. It was architected to
 
 
 ## Trademarks
-Covid Observer is a trademark of Renet Consulting, Inc.
-Covid Beholder is a trademark of Renet Consulting, Inc.
-Android is a trademark of Google LLC.
-IOS is a trademark or registered trademark of Cisco.
+
+- **Covid Observer** is a trademark of Renet Consulting, Inc.
+- **Covid Beholder** is a trademark of Renet Consulting, Inc.
+- **Android** is a trademark of Google LLC.
+- **IOS** is a trademark or registered trademark of Cisco.
