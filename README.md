@@ -5,8 +5,7 @@ Covid Observer&trade; is an open-source and cross-platform mobile application fo
 Covid Observer&trade; apps run on Android and IOS devices. It was architected to provide an open solution to help users be notified and receive notification about Covid19 virus.
 
 
-### Trademarks
-==============
+## Trademarks
 **Covid Observer** is a trademark of Renet Consulting, Inc.<br/>
 **Covid Beholder** is a trademark of Renet Consulting, Inc.<br/>
 **Android** is a trademark of Google LLC.<br/>
